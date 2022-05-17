@@ -12,8 +12,8 @@ In this repository you will find a collection of 100 projects that use HTML CSS.
 
 | # | Name | Project Link |
 | - | ------------- | ------------- |
-| 001 | Exam Portal Login Page   | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/slot-machine) |
-| 002 | Added Soon   | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/) |
+| 001 | Exam Portal Login Page   | [Click Here](https://github.com/thisiskushal31/100-css-projects/tree/main/exam-portal-login-page) |
+| 002 | Added Soon   | [Click Here](https://github.com/thisiskushal31/100-css-projects) |
 
 ##### About Me
 
