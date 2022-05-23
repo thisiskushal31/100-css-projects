@@ -19,7 +19,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-git clone https://github.com/thisiskushal31/exam-portal-login-page.git
+git clone <url>
 ```
 
 - Once that's done, open the project on the vs code:
@@ -42,7 +42,7 @@ Please read the [CONTRIBUTING.md](#) file (Soon to be added) to see how you can 
 
 [CodePen](https://codepen.io/thisiskushal31/pen/QWOjXXw)
 
-![App Screenshot](https://github.com/thisiskushal31/exam-portal-login-page/blob/main/images/Web_Output.png?raw=true)
+![App Screenshot](https://github.com/thisiskushal31/100-css-projects/blob/main/001-Exam_Portal_Login_Page/images/Web_Output.png?raw=true)
 
 # 🚀 About Me
 
